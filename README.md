@@ -21,4 +21,4 @@
   b. Gary (tutor)
 5.) Instructions for running the assignment
   1.) Unzip the file
-  2.) Run on unity
+  2.) Play the game and enjoy
